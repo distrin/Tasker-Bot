@@ -1,4 +1,4 @@
-m# Tasker Bot
+# Tasker Bot
 
 Tasker Bot é um bot Discord multifuncional desenvolvido com Discord.js, oferecendo uma variedade de recursos para gerenciamento e automação de servidores.
 
